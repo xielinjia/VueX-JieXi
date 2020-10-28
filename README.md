@@ -13,4 +13,4 @@ actions 异步操作
 modules 模块化状态管理
 
 
-参考：https://www.jianshu.com/p/2e5973fe1223                                     https://vuex.vuejs.org/zh/
+参考：https://www.jianshu.com/p/2e5973fe1223                    /                 https://vuex.vuejs.org/zh/
